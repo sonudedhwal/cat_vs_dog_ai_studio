@@ -1,0 +1,8 @@
+streamlit>=1.38
+tensorflow>=2.15
+numpy
+pandas
+pillow
+mysql-connector-python
+anthropic
+matplotlib
